@@ -1,0 +1,4 @@
+Project Plan - PMO Office
+1. Maintain inventory centrally.
+2. Track planning updates through Git.
+3. Push updates for distributed team visibility.
